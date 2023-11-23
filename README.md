@@ -1,4 +1,4 @@
-### OSS 수업!
+### OSS 수업 관련
 
 <!--
 **seungzi/seungzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
